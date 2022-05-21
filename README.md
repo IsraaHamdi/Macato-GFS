@@ -28,7 +28,7 @@ AS a Customer:
 * I want to logout from my profile.
 
 # Flow Chart
-[Link for flow chart]
+[Flow Chart](https://www.figma.com/file/nFrjI7JJahPfW0cm73HpOe/Macato?node-id=0%3A1)
 ![](https://i.imgur.com/WntaCuV.png)
 
 
