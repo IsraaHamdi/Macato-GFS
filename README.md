@@ -12,19 +12,18 @@ AS a Customer:
 * I want to see offers and discount.
 * I want to choose if i need payment cash or online.
 * I want to add feedback for chef if my request done.
-* I want to show feedback about me.
-* I want to show feedback written by me.
+* I want to see feedback about me.
+* I want to see feedback written by me.
 * I want to logout from my profile.
 
  
  
 **As a Chef:**
-* I want to show all orders.
-* I want to add feedback for customer if order done.
-* I want to show my information and I can edit it.
+* I want to see all orders.
+* I want to see my information and I can edit it.
 * I want to add feedback about customer if request completed.
-* I want to show feedback about me.
-* I want to show feedback written by me.
+* I want to see feedback about me.
+* I want to see feedback written by me.
 * I want to logout from my profile.
 
 # Flow Chart
